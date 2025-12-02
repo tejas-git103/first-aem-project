@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/tejas-git103/first-aem-project/main"
+    url: "https://http://localhost:3000//bin/franklin.delivery/tejas-git103/first-aem-project/main"
     type: "markup"
     suffix: ".html"
